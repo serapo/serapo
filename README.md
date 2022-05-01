@@ -82,7 +82,46 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jpyter" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="28"/> </a> 
 </p>
+<hr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/serapo/serapo" title="Go to Source">
+      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com/?user=serapo&theme=react&border=61dafb&hide_border=true" alt="serapo"/>
+    </a>
+    <a href="https://github.com/serapo/serapo" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=serapo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/serapo/serapo">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serapo&layout=compact&theme=react" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=serapo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
+<hr>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/serapo/Netflix-Form-Page" title="Netflix-Form-Page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=serapo&repo=Netflix-Form-Page&theme=react&border_color=61dafb&border_radius=10"></a>
+ 
+<a align="right" href="https://github.com/serapo/Google-Landing-Page" title="Google-Landing-Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=serapo&repo=Google-Landing-Page&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/serapo/Voltran" title="Voltran"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=serapo&repo=Voltran&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/serapo/Python_Assigment" title="Python Assigment"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=serapo&repo=Python_Assigment&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/serapo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 <!---
 **serapo/serapo** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
